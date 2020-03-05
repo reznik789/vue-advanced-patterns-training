@@ -24,6 +24,11 @@ const routes = [
     path: '/sortable-list',
     name: 'SortableListPage',
     component: () => import('../views/SortableListPage.vue')
+  },
+  {
+    path: '/search-select',
+    name: 'SearchSelectPage',
+    component: () => import('../views/SearchSelectPage.vue')
   }
 ]
 

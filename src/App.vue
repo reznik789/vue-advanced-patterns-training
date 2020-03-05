@@ -4,7 +4,8 @@
       <router-link to="/">Home</router-link>|
       <router-link to="/renderless">Renderless</router-link>|
       <router-link to="/compound">Compound</router-link> | 
-      <router-link to="/sortable-list">Sortable List</router-link>
+      <router-link to="/sortable-list">Sortable List</router-link> | 
+      <router-link to="/search-select">Search Select</router-link>
     </div>
     <router-view />
   </div>
